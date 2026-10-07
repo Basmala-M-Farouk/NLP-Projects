@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Vector stores and local databases
+chroma_store/
+chroma_db/
+*.sqlite3
+
+# Node / Deno
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

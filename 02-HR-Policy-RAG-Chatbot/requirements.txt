@@ -1,0 +1,7 @@
+# Written for the LangChain 0.1.x API used in the course
+langchain>=0.1.0,<0.2
+openai
+chromadb
+pypdf
+docx2txt
+tiktoken
